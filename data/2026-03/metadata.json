@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-03-26T09:21:35.861710+00:00",
+  "month": "2026-03",
+  "methodology_version": "1.0",
+  "total_listings": 58702,
+  "active_listings": 36214,
+  "barrios_covered": 73,
+  "price_trimming": "PERCENT_RANK >= 0.10 AND <= 0.80",
+  "min_price_filter_usd": 200,
+  "furnished_detection": "total_bed_capacity > 0 (LLM-extracted from photos)",
+  "all_in_includes": [
+    "base_rent",
+    "expensas (building fees)",
+    "estimated_utilities",
+    "broker_fee (amortized monthly)",
+    "guarantee/caucion (amortized monthly)"
+  ],
+  "sources": [
+    "airbnb",
+    "argenprop"
+  ],
+  "currency": "USD",
+  "city": "Buenos Aires",
+  "country": "Argentina",
+  "generated_by": "Unitrank (https://unitrank.com)"
+}
