@@ -1,0 +1,46 @@
+{
+  "schemaVersion": "2.1",
+  "name": "Buenos Aires rental market data",
+  "description": "Aggregated rental prices by neighborhood and bedroom count, regenerated daily. Compares Airbnb to direct-rental market across all major platforms. Prices are all-in US dollars: base rent, expensas, utilities, guarantee and broker fee amortized monthly.",
+  "publisher": "Unitrank",
+  "publisherUrl": "https://unitrank.com",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "licenseShortName": "CC BY 4.0",
+  "methodologyUrl": "https://unitrank.com/en/methodology",
+  "wikidata": "https://www.wikidata.org/wiki/Q138792840",
+  "contact": "hello@unitrank.com",
+  "citeAs": "Unitrank (August 2026). Buenos Aires rental market data. Retrieved from https://unitrank.com/en/data. Licensed CC BY 4.0.",
+  "generatedAt": "2026-08-09T05:00:30.364291+00:00",
+  "updateCadence": "daily",
+  "temporalCoverage": "2026-08",
+  "city": "Buenos Aires",
+  "country": "Argentina",
+  "sources": [
+    "Airbnb",
+    "Argenprop",
+    "Zonaprop",
+    "MercadoLibre"
+  ],
+  "currency": "USD",
+  "counts": {
+    "rankedListings": 66921,
+    "barriosCovered": 23
+  },
+  "methodologyNotes": {
+    "priceTrimming": "Bottom 10% and top 20% of prices removed on the pooled distribution before aggregation.",
+    "minPriceFilterUsd": 200,
+    "furnishedDetection": "Based on visible bed count in listing photos (LLM-extracted total_bed_capacity > 0). Coverage approximately 61%.",
+    "allInIncludes": [
+      "Base rent",
+      "Expensas (building fees)",
+      "Estimated utilities",
+      "Broker fee amortized over contract duration, where charged",
+      "Guarantee (seguro de caución) amortized monthly, where charged"
+    ],
+    "allInExcludes": [
+      "Move-in cleaning (one-time)",
+      "Stamp tax (sellado, one-time, approximately 0.5% of contract)",
+      "Deposit (refundable)"
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+district,sample_size,pct_quiet_rentals,pct_sleep_disrupted_rentals,median_indoor_noise_impact_0_100,p90_indoor_noise_impact_0_100,median_sleep_minutes_lost_per_night,p90_sleep_minutes_lost_per_night
+Ochota,186,51,17,7,46,2,14
+Śródmieście,578,55,15,6,43,2,13
+Żoliborz,128,61,14,2,42,1,13
+Włochy,165,65,13,3,42,1,13
+Praga-Południe,363,57,12,3,42,1,13
+Wola,706,58,12,6,42,2,13
+Mokotów,837,65,10,1,30,0,9
+Bielany,162,55,10,4,30,1,9
+Praga-Północ,154,58,9,1,30,0,9
+Ursus,91,71,7,1,28,0,8
+Ursynów,194,73,7,1,27,0,8
+Wilanów,174,70,7,1,27,0,8
+Wawer,41,83,7,1,26,0,8
+Białołęka,172,71,6,1,26,0,8
+Targówek,108,70,4,1,26,0,8
+Bemowo,172,79,2,1,15,0,4
