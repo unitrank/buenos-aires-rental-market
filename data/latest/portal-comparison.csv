@@ -1,3 +1,3 @@
 city,as_of,servable,servable_non_airbnb,largest_source,largest_source_units,largest_source_share_pct,not_on_largest_source_pct,largest_rental_portal,largest_rental_portal_share_pct,not_on_largest_rental_portal_pct,collapsed_copies,duplicate_share_pct,expensas_coverage_pct
-buenos-aires,2026-08-23,51142,24149,airbnb,26993,52.80,47.20,zonaprop,45.70,54.30,15790,23.60,41.80
-warsaw,2026-08-23,4887,4887,otodom,4887,100.00,0.00,otodom,100.00,0.00,18,0.40,92.90
+buenos-aires,2026-08-24,51194,24177,airbnb,27017,52.80,47.20,zonaprop,45.80,54.20,15735,23.50,41.80
+warsaw,2026-08-24,4940,4940,otodom,4940,100.00,0.00,otodom,100.00,0.00,25,0.50,92.80
