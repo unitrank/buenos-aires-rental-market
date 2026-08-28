@@ -10,7 +10,7 @@
   "wikidata": "https://www.wikidata.org/wiki/Q138792840",
   "contact": "hello@unitrank.com",
   "citeAs": "Unitrank (August 2026). Buenos Aires rental market data. Retrieved from https://unitrank.com/en/data. Licensed CC BY 4.0.",
-  "generatedAt": "2026-08-27T05:00:25.487758+00:00",
+  "generatedAt": "2026-08-28T05:00:25.439918+00:00",
   "updateCadence": "daily",
   "temporalCoverage": "2026-08",
   "methodologyVersion": "64dbaeb7606f",
@@ -24,7 +24,7 @@
   ],
   "currency": "USD",
   "counts": {
-    "rankedListings": 67277,
+    "rankedListings": 67331,
     "barriosCovered": 23
   },
   "methodologyNotes": {
