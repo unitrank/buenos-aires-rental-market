@@ -3,17 +3,17 @@
   "source": "Unitrank All-in Cost Index (UACI)",
   "license": "CC BY 4.0",
   "methodology": "https://unitrank.com/methodology/all-in-cost-index",
-  "generated_at": "2026-08-30T05:00:31.310949+00:00",
+  "generated_at": "2026-08-31T05:00:29.386481+00:00",
   "cohorts": [
     {
       "barrio": "Almagro",
       "bedrooms": 0,
       "channel": "all",
       "furnished": "all",
-      "n": 989,
+      "n": 990,
       "p25": 604.0,
       "p50": 731.39,
-      "p75": 1030.83
+      "p75": 1030.28
     },
     {
       "barrio": "Almagro",
@@ -22,8 +22,8 @@
       "furnished": "all",
       "n": 232,
       "p25": 1002.5,
-      "p50": 1193.0,
-      "p75": 1459.5
+      "p50": 1187.0,
+      "p75": 1460.5
     },
     {
       "barrio": "Almagro",
@@ -32,8 +32,8 @@
       "furnished": "furnished",
       "n": 232,
       "p25": 1002.5,
-      "p50": 1193.0,
-      "p75": 1459.5
+      "p50": 1187.0,
+      "p75": 1460.5
     },
     {
       "barrio": "Almagro",
@@ -70,9 +70,9 @@
       "bedrooms": 1,
       "channel": "all",
       "furnished": "all",
-      "n": 1450,
-      "p25": 669.41,
-      "p50": 902.34,
+      "n": 1449,
+      "p25": 671.56,
+      "p50": 903.51,
       "p75": 1234.0
     },
     {
@@ -80,30 +80,30 @@
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "all",
-      "n": 659,
-      "p25": 921.35,
-      "p50": 1192.0,
-      "p75": 1530.0
+      "n": 660,
+      "p25": 921.51,
+      "p50": 1190.5,
+      "p75": 1528.75
     },
     {
       "barrio": "Almagro",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 657,
-      "p25": 923.0,
-      "p50": 1192.0,
-      "p75": 1530.0
+      "n": 658,
+      "p25": 922.0,
+      "p50": 1191.0,
+      "p75": 1529.0
     },
     {
       "barrio": "Almagro",
       "bedrooms": 1,
       "channel": "direct",
       "furnished": "all",
-      "n": 776,
-      "p25": 622.7,
-      "p50": 719.28,
-      "p75": 933.12
+      "n": 775,
+      "p25": 622.92,
+      "p50": 720.72,
+      "p75": 933.23
     },
     {
       "barrio": "Almagro",
@@ -120,17 +120,17 @@
       "bedrooms": 1,
       "channel": "direct",
       "furnished": "unfurnished",
-      "n": 430,
-      "p25": 587.65,
-      "p50": 662.89,
-      "p75": 757.74
+      "n": 429,
+      "p25": 587.77,
+      "p50": 662.98,
+      "p75": 759.28
     },
     {
       "barrio": "Almagro",
       "bedrooms": 2,
       "channel": "all",
       "furnished": "all",
-      "n": 440,
+      "n": 441,
       "p25": 932.46,
       "p50": 1194.05,
       "p75": 1510.59
@@ -140,20 +140,20 @@
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "all",
-      "n": 123,
+      "n": 122,
       "p25": 1282.5,
-      "p50": 1709.5,
-      "p75": 2356.25
+      "p50": 1694.5,
+      "p75": 2349.75
     },
     {
       "barrio": "Almagro",
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 123,
+      "n": 122,
       "p25": 1282.5,
-      "p50": 1709.5,
-      "p75": 2356.25
+      "p50": 1694.5,
+      "p75": 2349.75
     },
     {
       "barrio": "Almagro",
@@ -250,10 +250,10 @@
       "bedrooms": 0,
       "channel": "all",
       "furnished": "all",
-      "n": 809,
+      "n": 810,
       "p25": 531.61,
       "p50": 661.89,
-      "p75": 959.5
+      "p75": 957.0
     },
     {
       "barrio": "Balvanera",
@@ -261,9 +261,9 @@
       "channel": "platform",
       "furnished": "all",
       "n": 201,
-      "p25": 954.5,
-      "p50": 1175.0,
-      "p75": 1450.0
+      "p25": 954.0,
+      "p50": 1159.0,
+      "p75": 1453.0
     },
     {
       "barrio": "Balvanera",
@@ -271,8 +271,8 @@
       "channel": "platform",
       "furnished": "furnished",
       "n": 199,
-      "p25": 955.5,
-      "p50": 1175.0,
+      "p25": 953.5,
+      "p50": 1159.0,
       "p75": 1449.0
     },
     {
@@ -310,30 +310,30 @@
       "bedrooms": 1,
       "channel": "all",
       "furnished": "all",
-      "n": 1271,
+      "n": 1269,
       "p25": 635.67,
-      "p50": 846.06,
-      "p75": 1213.0
+      "p50": 844.32,
+      "p75": 1207.38
     },
     {
       "barrio": "Balvanera",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "all",
-      "n": 695,
-      "p25": 819.0,
-      "p50": 1114.5,
-      "p75": 1516.0
+      "n": 689,
+      "p25": 818.25,
+      "p50": 1109.5,
+      "p75": 1494.5
     },
     {
       "barrio": "Balvanera",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 693,
-      "p25": 819.0,
-      "p50": 1114.5,
-      "p75": 1516.5
+      "n": 687,
+      "p25": 818.75,
+      "p50": 1109.5,
+      "p75": 1496.5
     },
     {
       "barrio": "Balvanera",
@@ -370,9 +370,9 @@
       "bedrooms": 2,
       "channel": "all",
       "furnished": "all",
-      "n": 414,
+      "n": 413,
       "p25": 866.65,
-      "p50": 1094.18,
+      "p50": 1093.16,
       "p75": 1560.45
     },
     {
@@ -380,20 +380,20 @@
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "all",
-      "n": 115,
-      "p25": 1326.0,
-      "p50": 1638.0,
-      "p75": 2107.25
+      "n": 117,
+      "p25": 1332.0,
+      "p50": 1629.5,
+      "p75": 2216.5
     },
     {
       "barrio": "Balvanera",
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 115,
-      "p25": 1326.0,
-      "p50": 1638.0,
-      "p75": 2107.25
+      "n": 117,
+      "p25": 1332.0,
+      "p50": 1629.5,
+      "p75": 2216.5
     },
     {
       "barrio": "Balvanera",
@@ -440,9 +440,9 @@
       "bedrooms": 3,
       "channel": "platform",
       "furnished": "all",
-      "n": 36,
+      "n": 35,
       "p25": 2100.75,
-      "p50": 2555.5,
+      "p50": 2550.5,
       "p75": 4295.75
     },
     {
@@ -450,9 +450,9 @@
       "bedrooms": 3,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 36,
+      "n": 35,
       "p25": 2100.75,
-      "p50": 2555.5,
+      "p50": 2550.5,
       "p75": 4295.75
     },
     {
@@ -500,30 +500,30 @@
       "bedrooms": 0,
       "channel": "all",
       "furnished": "all",
-      "n": 1067,
+      "n": 1066,
       "p25": 692.91,
       "p50": 848.29,
-      "p75": 1255.98
+      "p75": 1250.0
     },
     {
       "barrio": "Belgrano",
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "all",
-      "n": 299,
-      "p25": 1128.25,
-      "p50": 1432.0,
-      "p75": 1838.5
+      "n": 300,
+      "p25": 1130.0,
+      "p50": 1421.0,
+      "p75": 1827.5
     },
     {
       "barrio": "Belgrano",
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 299,
-      "p25": 1128.25,
-      "p50": 1432.0,
-      "p75": 1838.5
+      "n": 300,
+      "p25": 1130.0,
+      "p50": 1421.0,
+      "p75": 1827.5
     },
     {
       "barrio": "Belgrano",
@@ -560,19 +560,19 @@
       "bedrooms": 1,
       "channel": "all",
       "furnished": "all",
-      "n": 1772,
+      "n": 1774,
       "p25": 875.0,
       "p50": 1164.0,
-      "p75": 1557.0
+      "p75": 1559.0
     },
     {
       "barrio": "Belgrano",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "all",
-      "n": 724,
-      "p25": 1190.0,
-      "p50": 1530.0,
+      "n": 723,
+      "p25": 1194.0,
+      "p50": 1524.0,
       "p75": 1960.0
     },
     {
@@ -580,9 +580,9 @@
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 724,
-      "p25": 1190.0,
-      "p50": 1530.0,
+      "n": 723,
+      "p25": 1194.0,
+      "p50": 1524.0,
       "p75": 1960.0
     },
     {
@@ -620,30 +620,30 @@
       "bedrooms": 2,
       "channel": "all",
       "furnished": "all",
-      "n": 782,
+      "n": 779,
       "p25": 1189.44,
-      "p50": 1601.87,
-      "p75": 2169.08
+      "p50": 1599.98,
+      "p75": 2163.83
     },
     {
       "barrio": "Belgrano",
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "all",
-      "n": 191,
-      "p25": 1692.0,
-      "p50": 2301.0,
-      "p75": 3307.0
+      "n": 190,
+      "p25": 1689.75,
+      "p50": 2287.5,
+      "p75": 3327.75
     },
     {
       "barrio": "Belgrano",
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 191,
-      "p25": 1692.0,
-      "p50": 2301.0,
-      "p75": 3307.0
+      "n": 190,
+      "p25": 1689.75,
+      "p50": 2287.5,
+      "p75": 3327.75
     },
     {
       "barrio": "Belgrano",
@@ -691,9 +691,9 @@
       "channel": "platform",
       "furnished": "all",
       "n": 47,
-      "p25": 2614.75,
+      "p25": 2616.75,
       "p50": 4117.5,
-      "p75": 5861.75
+      "p75": 5823.0
     },
     {
       "barrio": "Belgrano",
@@ -701,9 +701,9 @@
       "channel": "platform",
       "furnished": "furnished",
       "n": 47,
-      "p25": 2614.75,
+      "p25": 2616.75,
       "p50": 4117.5,
-      "p75": 5861.75
+      "p75": 5823.0
     },
     {
       "barrio": "Belgrano",
@@ -1050,10 +1050,10 @@
       "bedrooms": 0,
       "channel": "all",
       "furnished": "all",
-      "n": 645,
-      "p25": 562.82,
+      "n": 644,
+      "p25": 562.76,
       "p50": 655.5,
-      "p75": 770.12
+      "p75": 770.39
     },
     {
       "barrio": "Caballito",
@@ -1062,7 +1062,7 @@
       "furnished": "all",
       "n": 74,
       "p25": 945.75,
-      "p50": 1184.5,
+      "p50": 1183.5,
       "p75": 1456.25
     },
     {
@@ -1072,7 +1072,7 @@
       "furnished": "furnished",
       "n": 74,
       "p25": 945.75,
-      "p50": 1184.5,
+      "p50": 1183.5,
       "p75": 1456.25
     },
     {
@@ -1080,10 +1080,10 @@
       "bedrooms": 0,
       "channel": "direct",
       "furnished": "all",
-      "n": 607,
+      "n": 606,
       "p25": 547.2,
-      "p50": 632.5,
-      "p75": 720.55
+      "p50": 632.62,
+      "p75": 721.38
     },
     {
       "barrio": "Caballito",
@@ -1100,29 +1100,29 @@
       "bedrooms": 0,
       "channel": "direct",
       "furnished": "unfurnished",
-      "n": 401,
-      "p25": 528.27,
-      "p50": 589.4,
-      "p75": 673.4
+      "n": 400,
+      "p25": 528.26,
+      "p50": 589.38,
+      "p75": 673.48
     },
     {
       "barrio": "Caballito",
       "bedrooms": 1,
       "channel": "all",
       "furnished": "all",
-      "n": 1187,
-      "p25": 634.26,
-      "p50": 762.91,
-      "p75": 991.67
+      "n": 1188,
+      "p25": 634.47,
+      "p50": 762.84,
+      "p75": 993.42
     },
     {
       "barrio": "Caballito",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "all",
-      "n": 257,
+      "n": 258,
       "p25": 931.0,
-      "p50": 1206.0,
+      "p50": 1203.0,
       "p75": 1560.0
     },
     {
@@ -1130,9 +1130,9 @@
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 257,
+      "n": 258,
       "p25": 930.75,
-      "p50": 1204.5,
+      "p50": 1198.5,
       "p75": 1556.25
     },
     {
@@ -1140,20 +1140,20 @@
       "bedrooms": 1,
       "channel": "direct",
       "furnished": "all",
-      "n": 949,
-      "p25": 618.52,
+      "n": 950,
+      "p25": 618.6,
       "p50": 714.69,
-      "p75": 859.24
+      "p75": 859.09
     },
     {
       "barrio": "Caballito",
       "bedrooms": 1,
       "channel": "direct",
       "furnished": "furnished",
-      "n": 146,
-      "p25": 825.76,
-      "p50": 933.37,
-      "p75": 1233.0
+      "n": 147,
+      "p25": 819.1,
+      "p50": 933.33,
+      "p75": 1231.67
     },
     {
       "barrio": "Caballito",
@@ -1170,30 +1170,30 @@
       "bedrooms": 2,
       "channel": "all",
       "furnished": "all",
-      "n": 559,
+      "n": 560,
       "p25": 887.58,
       "p50": 1100.27,
-      "p75": 1468.14
+      "p75": 1468.74
     },
     {
       "barrio": "Caballito",
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "all",
-      "n": 47,
-      "p25": 1380.0,
+      "n": 46,
+      "p25": 1482.5,
       "p50": 1737.5,
-      "p75": 2325.75
+      "p75": 2292.5
     },
     {
       "barrio": "Caballito",
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 47,
-      "p25": 1380.0,
+      "n": 46,
+      "p25": 1482.5,
       "p50": 1737.5,
-      "p75": 2325.75
+      "p75": 2292.5
     },
     {
       "barrio": "Caballito",
@@ -1233,7 +1233,7 @@
       "n": 194,
       "p25": 1298.04,
       "p50": 1581.01,
-      "p75": 2532.75
+      "p75": 2503.75
     },
     {
       "barrio": "Caballito",
@@ -1270,10 +1270,10 @@
       "bedrooms": 4,
       "channel": "all",
       "furnished": "all",
-      "n": 58,
+      "n": 57,
       "p25": 1869.25,
       "p50": 2648.84,
-      "p75": 3906.68
+      "p75": 3686.06
     },
     {
       "barrio": "Caballito",
@@ -1300,30 +1300,30 @@
       "bedrooms": 0,
       "channel": "all",
       "furnished": "all",
-      "n": 360,
-      "p25": 683.06,
-      "p50": 887.15,
-      "p75": 1138.5
+      "n": 359,
+      "p25": 681.93,
+      "p50": 889.64,
+      "p75": 1134.0
     },
     {
       "barrio": "Chacarita",
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "all",
-      "n": 112,
-      "p25": 1070.0,
-      "p50": 1272.0,
-      "p75": 1505.0
+      "n": 111,
+      "p25": 1064.5,
+      "p50": 1287.0,
+      "p75": 1505.75
     },
     {
       "barrio": "Chacarita",
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 112,
-      "p25": 1070.0,
-      "p50": 1272.0,
-      "p75": 1505.0
+      "n": 111,
+      "p25": 1064.5,
+      "p50": 1287.0,
+      "p75": 1505.75
     },
     {
       "barrio": "Chacarita",
@@ -1360,10 +1360,10 @@
       "bedrooms": 1,
       "channel": "all",
       "furnished": "all",
-      "n": 457,
-      "p25": 811.48,
-      "p50": 1093.9,
-      "p75": 1465.0
+      "n": 458,
+      "p25": 813.88,
+      "p50": 1108.33,
+      "p75": 1464.0
     },
     {
       "barrio": "Chacarita",
@@ -1371,9 +1371,9 @@
       "channel": "platform",
       "furnished": "all",
       "n": 253,
-      "p25": 951.5,
-      "p50": 1278.0,
-      "p75": 1690.0
+      "p25": 952.75,
+      "p50": 1281.5,
+      "p75": 1669.0
     },
     {
       "barrio": "Chacarita",
@@ -1381,9 +1381,9 @@
       "channel": "platform",
       "furnished": "furnished",
       "n": 253,
-      "p25": 951.5,
-      "p50": 1278.0,
-      "p75": 1690.0
+      "p25": 952.75,
+      "p50": 1281.5,
+      "p75": 1669.0
     },
     {
       "barrio": "Chacarita",
@@ -1422,7 +1422,7 @@
       "furnished": "all",
       "n": 83,
       "p25": 1200.66,
-      "p50": 1771.85,
+      "p50": 1744.93,
       "p75": 2582.96
     },
     {
@@ -1431,7 +1431,7 @@
       "channel": "platform",
       "furnished": "all",
       "n": 36,
-      "p25": 1797.0,
+      "p25": 1769.5,
       "p50": 2270.0,
       "p75": 3091.39
     },
@@ -1441,7 +1441,7 @@
       "channel": "platform",
       "furnished": "furnished",
       "n": 36,
-      "p25": 1797.0,
+      "p25": 1769.5,
       "p50": 2270.0,
       "p75": 3091.39
     },
@@ -1553,7 +1553,7 @@
       "n": 148,
       "p25": 774.78,
       "p50": 1001.32,
-      "p75": 1272.12
+      "p75": 1269.28
     },
     {
       "barrio": "Coghlan",
@@ -1650,9 +1650,9 @@
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "all",
-      "n": 143,
+      "n": 144,
       "p25": 1173.5,
-      "p50": 1414.0,
+      "p50": 1411.0,
       "p75": 1900.0
     },
     {
@@ -1660,9 +1660,9 @@
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 143,
+      "n": 144,
       "p25": 1173.5,
-      "p50": 1414.0,
+      "p50": 1411.0,
       "p75": 1900.0
     },
     {
@@ -1700,30 +1700,30 @@
       "bedrooms": 1,
       "channel": "all",
       "furnished": "all",
-      "n": 870,
-      "p25": 902.44,
-      "p50": 1275.27,
-      "p75": 1858.75
+      "n": 871,
+      "p25": 902.69,
+      "p50": 1275.0,
+      "p75": 1849.4
     },
     {
       "barrio": "Colegiales",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "all",
-      "n": 364,
-      "p25": 1256.0,
-      "p50": 1647.0,
-      "p75": 2311.5
+      "n": 369,
+      "p25": 1253.5,
+      "p50": 1640.5,
+      "p75": 2308.25
     },
     {
       "barrio": "Colegiales",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 364,
-      "p25": 1256.0,
-      "p50": 1647.0,
-      "p75": 2311.5
+      "n": 369,
+      "p25": 1253.5,
+      "p50": 1640.5,
+      "p75": 2308.25
     },
     {
       "barrio": "Colegiales",
@@ -1760,30 +1760,30 @@
       "bedrooms": 2,
       "channel": "all",
       "furnished": "all",
-      "n": 306,
+      "n": 307,
       "p25": 1162.82,
-      "p50": 1545.78,
-      "p75": 2210.12
+      "p50": 1550.5,
+      "p75": 2233.0
     },
     {
       "barrio": "Colegiales",
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "all",
-      "n": 96,
-      "p25": 1786.5,
-      "p50": 2241.0,
-      "p75": 4091.5
+      "n": 97,
+      "p25": 1790.0,
+      "p50": 2242.0,
+      "p75": 4080.0
     },
     {
       "barrio": "Colegiales",
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 96,
-      "p25": 1786.5,
-      "p50": 2241.0,
-      "p75": 4091.5
+      "n": 97,
+      "p25": 1790.0,
+      "p50": 2242.0,
+      "p75": 4080.0
     },
     {
       "barrio": "Colegiales",
@@ -1890,10 +1890,10 @@
       "bedrooms": 0,
       "channel": "all",
       "furnished": "all",
-      "n": 352,
-      "p25": 559.99,
-      "p50": 688.9,
-      "p75": 891.3
+      "n": 351,
+      "p25": 559.96,
+      "p50": 687.45,
+      "p75": 891.81
     },
     {
       "barrio": "Constitución",
@@ -1902,8 +1902,8 @@
       "furnished": "all",
       "n": 77,
       "p25": 850.04,
-      "p50": 1060.0,
-      "p75": 1333.5
+      "p50": 1050.0,
+      "p75": 1335.5
     },
     {
       "barrio": "Constitución",
@@ -1912,27 +1912,27 @@
       "furnished": "furnished",
       "n": 77,
       "p25": 850.04,
-      "p50": 1060.0,
-      "p75": 1333.5
+      "p50": 1050.0,
+      "p75": 1335.5
     },
     {
       "barrio": "Constitución",
       "bedrooms": 0,
       "channel": "direct",
       "furnished": "all",
-      "n": 288,
-      "p25": 547.35,
-      "p50": 636.83,
-      "p75": 817.0
+      "n": 286,
+      "p25": 547.29,
+      "p50": 636.7,
+      "p75": 811.26
     },
     {
       "barrio": "Constitución",
       "bedrooms": 0,
       "channel": "direct",
       "furnished": "furnished",
-      "n": 109,
-      "p25": 672.2,
-      "p50": 815.57,
+      "n": 108,
+      "p25": 672.12,
+      "p50": 811.0,
       "p75": 925.5
     },
     {
@@ -1952,28 +1952,28 @@
       "furnished": "all",
       "n": 390,
       "p25": 664.92,
-      "p50": 859.0,
-      "p75": 1226.16
+      "p50": 857.55,
+      "p75": 1221.0
     },
     {
       "barrio": "Constitución",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "all",
-      "n": 225,
-      "p25": 821.0,
-      "p50": 1175.5,
-      "p75": 1458.75
+      "n": 224,
+      "p25": 815.5,
+      "p50": 1170.0,
+      "p75": 1442.25
     },
     {
       "barrio": "Constitución",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 225,
-      "p25": 821.0,
-      "p50": 1175.5,
-      "p75": 1458.75
+      "n": 224,
+      "p25": 815.5,
+      "p50": 1170.0,
+      "p75": 1442.25
     },
     {
       "barrio": "Constitución",
@@ -2262,28 +2262,28 @@
       "furnished": "all",
       "n": 735,
       "p25": 620.84,
-      "p50": 887.0,
-      "p75": 1201.5
+      "p50": 886.53,
+      "p75": 1196.25
     },
     {
       "barrio": "Monserrat",
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "all",
-      "n": 321,
-      "p25": 929.25,
-      "p50": 1184.5,
-      "p75": 1677.25
+      "n": 316,
+      "p25": 925.5,
+      "p50": 1162.0,
+      "p75": 1658.75
     },
     {
       "barrio": "Monserrat",
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 321,
-      "p25": 929.25,
-      "p50": 1184.5,
-      "p75": 1677.25
+      "n": 316,
+      "p25": 925.5,
+      "p50": 1162.0,
+      "p75": 1658.75
     },
     {
       "barrio": "Monserrat",
@@ -2320,90 +2320,90 @@
       "bedrooms": 1,
       "channel": "all",
       "furnished": "all",
-      "n": 1150,
-      "p25": 752.88,
-      "p50": 1061.0,
-      "p75": 1512.0
+      "n": 1151,
+      "p25": 752.97,
+      "p50": 1057.82,
+      "p75": 1503.75
     },
     {
       "barrio": "Monserrat",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "all",
-      "n": 809,
-      "p25": 917.0,
-      "p50": 1229.0,
-      "p75": 1667.0
+      "n": 813,
+      "p25": 918.5,
+      "p50": 1225.0,
+      "p75": 1665.75
     },
     {
       "barrio": "Monserrat",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 809,
-      "p25": 917.0,
-      "p50": 1229.0,
-      "p75": 1667.0
+      "n": 813,
+      "p25": 918.5,
+      "p50": 1225.0,
+      "p75": 1665.75
     },
     {
       "barrio": "Monserrat",
       "bedrooms": 1,
       "channel": "direct",
       "furnished": "all",
-      "n": 321,
-      "p25": 636.88,
+      "n": 319,
+      "p25": 636.37,
       "p50": 758.33,
-      "p75": 915.86
+      "p75": 918.78
     },
     {
       "barrio": "Monserrat",
       "bedrooms": 1,
       "channel": "direct",
       "furnished": "furnished",
-      "n": 168,
-      "p25": 721.66,
-      "p50": 843.67,
-      "p75": 1004.6
+      "n": 167,
+      "p25": 720.0,
+      "p50": 844.56,
+      "p75": 1004.71
     },
     {
       "barrio": "Monserrat",
       "bedrooms": 1,
       "channel": "direct",
       "furnished": "unfurnished",
-      "n": 132,
-      "p25": 564.51,
-      "p50": 664.48,
-      "p75": 772.13
+      "n": 131,
+      "p25": 562.42,
+      "p50": 666.1,
+      "p75": 772.43
     },
     {
       "barrio": "Monserrat",
       "bedrooms": 2,
       "channel": "all",
       "furnished": "all",
-      "n": 292,
-      "p25": 977.8,
-      "p50": 1404.9,
-      "p75": 1983.72
+      "n": 293,
+      "p25": 978.9,
+      "p50": 1405.36,
+      "p75": 1980.09
     },
     {
       "barrio": "Monserrat",
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "all",
-      "n": 134,
-      "p25": 1423.0,
-      "p50": 1813.0,
-      "p75": 2324.0
+      "n": 138,
+      "p25": 1419.25,
+      "p50": 1794.0,
+      "p75": 2336.25
     },
     {
       "barrio": "Monserrat",
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 134,
-      "p25": 1423.0,
-      "p50": 1813.0,
-      "p75": 2324.0
+      "n": 138,
+      "p25": 1419.25,
+      "p50": 1794.0,
+      "p75": 2336.25
     },
     {
       "barrio": "Monserrat",
@@ -2500,18 +2500,18 @@
       "bedrooms": 0,
       "channel": "all",
       "furnished": "all",
-      "n": 557,
+      "n": 556,
       "p25": 677.37,
       "p50": 809.66,
-      "p75": 1105.27
+      "p75": 1090.0
     },
     {
       "barrio": "Núñez",
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "all",
-      "n": 102,
-      "p25": 1138.75,
+      "n": 103,
+      "p25": 1122.0,
       "p50": 1287.0,
       "p75": 1506.25
     },
@@ -2520,8 +2520,8 @@
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 102,
-      "p25": 1138.75,
+      "n": 103,
+      "p25": 1122.0,
       "p50": 1287.0,
       "p75": 1506.25
     },
@@ -2560,30 +2560,30 @@
       "bedrooms": 1,
       "channel": "all",
       "furnished": "all",
-      "n": 828,
-      "p25": 890.77,
+      "n": 830,
+      "p25": 891.83,
       "p50": 1166.67,
-      "p75": 1533.71
+      "p75": 1540.56
     },
     {
       "barrio": "Núñez",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "all",
-      "n": 272,
-      "p25": 1255.0,
-      "p50": 1533.0,
-      "p75": 2018.0
+      "n": 274,
+      "p25": 1244.0,
+      "p50": 1537.0,
+      "p75": 2037.0
     },
     {
       "barrio": "Núñez",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 271,
-      "p25": 1254.5,
-      "p50": 1531.0,
-      "p75": 2005.0
+      "n": 272,
+      "p25": 1243.25,
+      "p50": 1534.5,
+      "p75": 2012.44
     },
     {
       "barrio": "Núñez",
@@ -2623,7 +2623,7 @@
       "n": 324,
       "p25": 1306.0,
       "p50": 1677.33,
-      "p75": 2429.25
+      "p75": 2431.8
     },
     {
       "barrio": "Núñez",
@@ -2631,8 +2631,8 @@
       "channel": "platform",
       "furnished": "all",
       "n": 68,
-      "p25": 1678.75,
-      "p50": 2428.0,
+      "p25": 1679.5,
+      "p50": 2440.0,
       "p75": 3431.25
     },
     {
@@ -2641,8 +2641,8 @@
       "channel": "platform",
       "furnished": "furnished",
       "n": 68,
-      "p25": 1678.75,
-      "p50": 2428.0,
+      "p25": 1679.5,
+      "p50": 2440.0,
       "p75": 3431.25
     },
     {
@@ -2910,10 +2910,10 @@
       "bedrooms": 2,
       "channel": "all",
       "furnished": "all",
-      "n": 187,
-      "p25": 1101.05,
-      "p50": 1530.85,
-      "p75": 2474.59
+      "n": 186,
+      "p25": 1096.2,
+      "p50": 1535.98,
+      "p75": 2478.33
     },
     {
       "barrio": "Olivos",
@@ -2922,8 +2922,8 @@
       "furnished": "all",
       "n": 19,
       "p25": 1690.75,
-      "p50": 2127.5,
-      "p75": 2910.75
+      "p50": 2111.5,
+      "p75": 2910.5
     },
     {
       "barrio": "Olivos",
@@ -2932,18 +2932,18 @@
       "furnished": "furnished",
       "n": 19,
       "p25": 1690.75,
-      "p50": 2127.5,
-      "p75": 2910.75
+      "p50": 2111.5,
+      "p75": 2910.5
     },
     {
       "barrio": "Olivos",
       "bedrooms": 2,
       "channel": "direct",
       "furnished": "all",
-      "n": 168,
+      "n": 167,
       "p25": 1078.92,
       "p50": 1500.03,
-      "p75": 2317.22
+      "p75": 2320.45
     },
     {
       "barrio": "Olivos",
@@ -2960,10 +2960,10 @@
       "bedrooms": 2,
       "channel": "direct",
       "furnished": "unfurnished",
-      "n": 104,
-      "p25": 1043.33,
+      "n": 103,
+      "p25": 1040.98,
       "p50": 1447.52,
-      "p75": 1884.73
+      "p75": 1885.8
     },
     {
       "barrio": "Olivos",
@@ -3000,20 +3000,20 @@
       "bedrooms": 0,
       "channel": "all",
       "furnished": "all",
-      "n": 5142,
+      "n": 5143,
       "p25": 797.71,
-      "p50": 1104.0,
-      "p75": 1527.0
+      "p50": 1104.08,
+      "p75": 1523.8
     },
     {
       "barrio": "Palermo",
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "all",
-      "n": 2282,
-      "p25": 1218.0,
-      "p50": 1495.0,
-      "p75": 1940.0
+      "n": 2285,
+      "p25": 1219.0,
+      "p50": 1488.0,
+      "p75": 1932.0
     },
     {
       "barrio": "Palermo",
@@ -3021,9 +3021,9 @@
       "channel": "platform",
       "furnished": "furnished",
       "n": 2276,
-      "p25": 1216.75,
-      "p50": 1493.0,
-      "p75": 1936.25
+      "p25": 1219.0,
+      "p50": 1484.78,
+      "p75": 1927.0
     },
     {
       "barrio": "Palermo",
@@ -3060,10 +3060,10 @@
       "bedrooms": 1,
       "channel": "all",
       "furnished": "all",
-      "n": 8193,
-      "p25": 1029.04,
-      "p50": 1396.0,
-      "p75": 1880.66
+      "n": 8196,
+      "p25": 1029.19,
+      "p50": 1397.0,
+      "p75": 1880.61
     },
     {
       "barrio": "Palermo",
@@ -3071,9 +3071,9 @@
       "channel": "platform",
       "furnished": "all",
       "n": 4716,
-      "p25": 1231.75,
-      "p50": 1625.5,
-      "p75": 2189.0
+      "p25": 1234.0,
+      "p50": 1623.0,
+      "p75": 2186.0
     },
     {
       "barrio": "Palermo",
@@ -3081,17 +3081,17 @@
       "channel": "platform",
       "furnished": "furnished",
       "n": 4714,
-      "p25": 1231.25,
-      "p50": 1625.5,
-      "p75": 2189.0
+      "p25": 1234.0,
+      "p50": 1623.0,
+      "p75": 2186.5
     },
     {
       "barrio": "Palermo",
       "bedrooms": 1,
       "channel": "direct",
       "furnished": "all",
-      "n": 3569,
-      "p25": 833.24,
+      "n": 3567,
+      "p25": 833.02,
       "p50": 1123.0,
       "p75": 1517.53
     },
@@ -3110,19 +3110,19 @@
       "bedrooms": 1,
       "channel": "direct",
       "furnished": "unfurnished",
-      "n": 1259,
+      "n": 1260,
       "p25": 701.71,
-      "p50": 853.48,
-      "p75": 1188.12
+      "p50": 853.05,
+      "p75": 1190.75
     },
     {
       "barrio": "Palermo",
       "bedrooms": 2,
       "channel": "all",
       "furnished": "all",
-      "n": 2880,
+      "n": 2883,
       "p25": 1537.0,
-      "p50": 2152.0,
+      "p50": 2150.5,
       "p75": 3060.0
     },
     {
@@ -3130,20 +3130,20 @@
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "all",
-      "n": 1148,
-      "p25": 1943.0,
-      "p50": 2686.48,
-      "p75": 3936.0
+      "n": 1151,
+      "p25": 1943.25,
+      "p50": 2684.94,
+      "p75": 3905.75
     },
     {
       "barrio": "Palermo",
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 1148,
+      "n": 1150,
       "p25": 1943.0,
-      "p50": 2686.18,
-      "p75": 3906.75
+      "p50": 2684.0,
+      "p75": 3896.0
     },
     {
       "barrio": "Palermo",
@@ -3180,7 +3180,7 @@
       "bedrooms": 3,
       "channel": "all",
       "furnished": "all",
-      "n": 928,
+      "n": 929,
       "p25": 2048.58,
       "p50": 3126.0,
       "p75": 5124.24
@@ -3190,20 +3190,20 @@
       "bedrooms": 3,
       "channel": "platform",
       "furnished": "all",
-      "n": 264,
+      "n": 260,
       "p25": 2881.75,
-      "p50": 3997.57,
-      "p75": 7140.5
+      "p50": 3995.57,
+      "p75": 6819.75
     },
     {
       "barrio": "Palermo",
       "bedrooms": 3,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 264,
+      "n": 260,
       "p25": 2881.75,
-      "p50": 3997.57,
-      "p75": 7140.5
+      "p50": 3995.57,
+      "p75": 6819.75
     },
     {
       "barrio": "Palermo",
@@ -3241,29 +3241,29 @@
       "channel": "all",
       "furnished": "all",
       "n": 273,
-      "p25": 3491.06,
-      "p50": 5308.07,
-      "p75": 8666.5
+      "p25": 3493.37,
+      "p50": 5314.0,
+      "p75": 8709.0
     },
     {
       "barrio": "Palermo",
       "bedrooms": 4,
       "channel": "platform",
       "furnished": "all",
-      "n": 99,
-      "p25": 5377.0,
-      "p50": 8647.0,
-      "p75": 13804.0
+      "n": 100,
+      "p25": 5463.25,
+      "p50": 8660.0,
+      "p75": 14001.0
     },
     {
       "barrio": "Palermo",
       "bedrooms": 4,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 99,
-      "p25": 5377.0,
-      "p50": 8647.0,
-      "p75": 13804.0
+      "n": 100,
+      "p25": 5463.25,
+      "p50": 8660.0,
+      "p75": 14001.0
     },
     {
       "barrio": "Palermo",
@@ -3492,18 +3492,18 @@
       "furnished": "all",
       "n": 53,
       "p25": 1961.0,
-      "p50": 2275.0,
-      "p75": 2600.0
+      "p50": 2210.0,
+      "p75": 2596.0
     },
     {
       "barrio": "Puerto Madero",
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 53,
+      "n": 51,
       "p25": 1950.0,
-      "p50": 2272.0,
-      "p75": 2597.0
+      "p50": 2203.5,
+      "p75": 2487.25
     },
     {
       "barrio": "Puerto Madero",
@@ -3542,7 +3542,7 @@
       "furnished": "all",
       "n": 1277,
       "p25": 1888.79,
-      "p50": 2499.64,
+      "p50": 2498.78,
       "p75": 3432.2
     },
     {
@@ -3550,20 +3550,20 @@
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "all",
-      "n": 259,
-      "p25": 2378.5,
-      "p50": 3159.0,
-      "p75": 4249.75
+      "n": 260,
+      "p25": 2370.5,
+      "p50": 3180.5,
+      "p75": 4275.5
     },
     {
       "barrio": "Puerto Madero",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 258,
-      "p25": 2380.0,
-      "p50": 3169.0,
-      "p75": 4250.0
+      "n": 260,
+      "p25": 2378.0,
+      "p50": 3182.0,
+      "p75": 4284.0
     },
     {
       "barrio": "Puerto Madero",
@@ -3600,10 +3600,10 @@
       "bedrooms": 2,
       "channel": "all",
       "furnished": "all",
-      "n": 670,
+      "n": 669,
       "p25": 2858.11,
-      "p50": 3598.1,
-      "p75": 4704.0
+      "p50": 3596.31,
+      "p75": 4694.0
     },
     {
       "barrio": "Puerto Madero",
@@ -3612,8 +3612,8 @@
       "furnished": "all",
       "n": 89,
       "p25": 3064.5,
-      "p50": 3755.5,
-      "p75": 5151.5
+      "p50": 3723.0,
+      "p75": 5016.75
     },
     {
       "barrio": "Puerto Madero",
@@ -3622,8 +3622,8 @@
       "furnished": "furnished",
       "n": 89,
       "p25": 3064.5,
-      "p50": 3755.5,
-      "p75": 5151.5
+      "p50": 3723.0,
+      "p75": 5016.75
     },
     {
       "barrio": "Puerto Madero",
@@ -3663,7 +3663,7 @@
       "n": 199,
       "p25": 4882.3,
       "p50": 6163.99,
-      "p75": 8616.69
+      "p75": 8500.0
     },
     {
       "barrio": "Puerto Madero",
@@ -3720,30 +3720,30 @@
       "bedrooms": 0,
       "channel": "all",
       "furnished": "all",
-      "n": 2051,
+      "n": 2058,
       "p25": 676.67,
-      "p50": 893.33,
-      "p75": 1293.1
+      "p50": 893.19,
+      "p75": 1291.48
     },
     {
       "barrio": "Recoleta",
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "all",
-      "n": 797,
-      "p25": 1068.0,
-      "p50": 1324.0,
-      "p75": 1782.5
+      "n": 799,
+      "p25": 1062.0,
+      "p50": 1321.0,
+      "p75": 1774.23
     },
     {
       "barrio": "Recoleta",
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 797,
-      "p25": 1068.0,
-      "p50": 1324.0,
-      "p75": 1782.5
+      "n": 799,
+      "p25": 1062.0,
+      "p50": 1321.0,
+      "p75": 1774.23
     },
     {
       "barrio": "Recoleta",
@@ -3780,30 +3780,30 @@
       "bedrooms": 1,
       "channel": "all",
       "furnished": "all",
-      "n": 3469,
-      "p25": 856.0,
-      "p50": 1187.0,
-      "p75": 1640.0
+      "n": 3464,
+      "p25": 855.87,
+      "p50": 1184.5,
+      "p75": 1633.0
     },
     {
       "barrio": "Recoleta",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "all",
-      "n": 1919,
-      "p25": 1137.5,
-      "p50": 1450.0,
-      "p75": 1903.0
+      "n": 1916,
+      "p25": 1137.25,
+      "p50": 1442.5,
+      "p75": 1896.0
     },
     {
       "barrio": "Recoleta",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 1919,
-      "p25": 1137.5,
-      "p50": 1450.0,
-      "p75": 1903.0
+      "n": 1916,
+      "p25": 1137.25,
+      "p50": 1442.5,
+      "p75": 1896.0
     },
     {
       "barrio": "Recoleta",
@@ -3840,30 +3840,30 @@
       "bedrooms": 2,
       "channel": "all",
       "furnished": "all",
-      "n": 1466,
-      "p25": 1375.01,
+      "n": 1468,
+      "p25": 1374.39,
       "p50": 1921.5,
-      "p75": 2682.23
+      "p75": 2676.77
     },
     {
       "barrio": "Recoleta",
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "all",
-      "n": 575,
-      "p25": 1833.75,
-      "p50": 2424.0,
-      "p75": 3362.75
+      "n": 572,
+      "p25": 1826.5,
+      "p50": 2420.0,
+      "p75": 3336.0
     },
     {
       "barrio": "Recoleta",
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 575,
-      "p25": 1833.75,
-      "p50": 2424.0,
-      "p75": 3362.75
+      "n": 572,
+      "p25": 1826.5,
+      "p50": 2420.0,
+      "p75": 3336.0
     },
     {
       "barrio": "Recoleta",
@@ -3903,7 +3903,7 @@
       "n": 644,
       "p25": 1856.97,
       "p50": 2578.09,
-      "p75": 3715.0
+      "p75": 3705.0
     },
     {
       "barrio": "Recoleta",
@@ -3912,7 +3912,7 @@
       "furnished": "all",
       "n": 160,
       "p25": 2674.29,
-      "p50": 3650.0,
+      "p50": 3623.0,
       "p75": 4700.0
     },
     {
@@ -3922,7 +3922,7 @@
       "furnished": "furnished",
       "n": 160,
       "p25": 2674.29,
-      "p50": 3650.0,
+      "p50": 3623.0,
       "p75": 4700.0
     },
     {
@@ -3973,7 +3973,7 @@
       "n": 41,
       "p25": 4533.5,
       "p50": 6457.0,
-      "p75": 9343.5
+      "p75": 9348.5
     },
     {
       "barrio": "Recoleta",
@@ -3983,7 +3983,7 @@
       "n": 41,
       "p25": 4533.5,
       "p50": 6457.0,
-      "p75": 9343.5
+      "p75": 9348.5
     },
     {
       "barrio": "Recoleta",
@@ -4020,8 +4020,8 @@
       "bedrooms": 0,
       "channel": "all",
       "furnished": "all",
-      "n": 739,
-      "p25": 677.85,
+      "n": 740,
+      "p25": 679.06,
       "p50": 941.0,
       "p75": 1254.11
     },
@@ -4030,40 +4030,40 @@
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "all",
-      "n": 280,
-      "p25": 972.0,
-      "p50": 1220.5,
-      "p75": 1585.0
+      "n": 286,
+      "p25": 974.5,
+      "p50": 1224.0,
+      "p75": 1570.0
     },
     {
       "barrio": "Retiro",
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 280,
-      "p25": 972.0,
-      "p50": 1220.5,
-      "p75": 1585.0
+      "n": 286,
+      "p25": 974.5,
+      "p50": 1224.0,
+      "p75": 1570.0
     },
     {
       "barrio": "Retiro",
       "bedrooms": 0,
       "channel": "direct",
       "furnished": "all",
-      "n": 456,
-      "p25": 597.94,
-      "p50": 768.46,
-      "p75": 1000.85
+      "n": 455,
+      "p25": 598.15,
+      "p50": 769.23,
+      "p75": 1001.01
     },
     {
       "barrio": "Retiro",
       "bedrooms": 0,
       "channel": "direct",
       "furnished": "furnished",
-      "n": 261,
-      "p25": 686.17,
-      "p50": 853.69,
-      "p75": 1087.12
+      "n": 260,
+      "p25": 688.66,
+      "p50": 856.12,
+      "p75": 1088.0
     },
     {
       "barrio": "Retiro",
@@ -4080,18 +4080,18 @@
       "bedrooms": 1,
       "channel": "all",
       "furnished": "all",
-      "n": 1107,
+      "n": 1113,
       "p25": 876.76,
-      "p50": 1160.8,
-      "p75": 1632.0
+      "p50": 1160.39,
+      "p75": 1628.75
     },
     {
       "barrio": "Retiro",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "all",
-      "n": 671,
-      "p25": 1049.0,
+      "n": 673,
+      "p25": 1038.0,
       "p50": 1384.0,
       "p75": 1897.0
     },
@@ -4100,8 +4100,8 @@
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 671,
-      "p25": 1049.0,
+      "n": 673,
+      "p25": 1038.0,
       "p50": 1384.0,
       "p75": 1897.0
     },
@@ -4140,30 +4140,30 @@
       "bedrooms": 2,
       "channel": "all",
       "furnished": "all",
-      "n": 472,
-      "p25": 1377.09,
-      "p50": 1831.61,
-      "p75": 2637.0
+      "n": 473,
+      "p25": 1378.19,
+      "p50": 1831.22,
+      "p75": 2620.5
     },
     {
       "barrio": "Retiro",
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "all",
-      "n": 196,
-      "p25": 1700.0,
-      "p50": 2298.0,
-      "p75": 3288.0
+      "n": 197,
+      "p25": 1701.25,
+      "p50": 2275.5,
+      "p75": 3281.5
     },
     {
       "barrio": "Retiro",
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 196,
-      "p25": 1700.0,
-      "p50": 2298.0,
-      "p75": 3288.0
+      "n": 197,
+      "p25": 1701.25,
+      "p50": 2275.5,
+      "p75": 3281.5
     },
     {
       "barrio": "Retiro",
@@ -4211,9 +4211,9 @@
       "channel": "platform",
       "furnished": "all",
       "n": 66,
-      "p25": 2549.0,
+      "p25": 2541.5,
       "p50": 3515.0,
-      "p75": 5572.5
+      "p75": 5496.0
     },
     {
       "barrio": "Retiro",
@@ -4221,9 +4221,9 @@
       "channel": "platform",
       "furnished": "furnished",
       "n": 66,
-      "p25": 2549.0,
+      "p25": 2541.5,
       "p50": 3515.0,
-      "p75": 5572.5
+      "p75": 5496.0
     },
     {
       "barrio": "Retiro",
@@ -4333,7 +4333,7 @@
       "n": 37,
       "p25": 922.5,
       "p50": 1039.5,
-      "p75": 1216.0
+      "p75": 1239.25
     },
     {
       "barrio": "San Cristóbal",
@@ -4343,7 +4343,7 @@
       "n": 37,
       "p25": 922.5,
       "p50": 1039.5,
-      "p75": 1216.0
+      "p75": 1239.25
     },
     {
       "barrio": "San Cristóbal",
@@ -4380,30 +4380,30 @@
       "bedrooms": 1,
       "channel": "all",
       "furnished": "all",
-      "n": 293,
+      "n": 292,
       "p25": 637.11,
       "p50": 794.18,
-      "p75": 999.0
+      "p75": 994.68
     },
     {
       "barrio": "San Cristóbal",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "all",
-      "n": 114,
-      "p25": 836.5,
-      "p50": 1041.0,
-      "p75": 1434.5
+      "n": 115,
+      "p25": 835.0,
+      "p50": 1042.5,
+      "p75": 1427.25
     },
     {
       "barrio": "San Cristóbal",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 114,
-      "p25": 836.5,
-      "p50": 1041.0,
-      "p75": 1434.5
+      "n": 115,
+      "p25": 835.0,
+      "p50": 1042.5,
+      "p75": 1427.25
     },
     {
       "barrio": "San Cristóbal",
@@ -4443,7 +4443,7 @@
       "n": 90,
       "p25": 759.8,
       "p50": 948.07,
-      "p75": 1350.5
+      "p75": 1351.0
     },
     {
       "barrio": "San Cristóbal",
@@ -4500,30 +4500,30 @@
       "bedrooms": 0,
       "channel": "all",
       "furnished": "all",
-      "n": 947,
-      "p25": 642.98,
-      "p50": 907.86,
-      "p75": 1216.72
+      "n": 948,
+      "p25": 642.22,
+      "p50": 911.49,
+      "p75": 1207.75
     },
     {
       "barrio": "San Nicolás",
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "all",
-      "n": 441,
-      "p25": 992.5,
-      "p50": 1193.0,
-      "p75": 1533.0
+      "n": 443,
+      "p25": 987.0,
+      "p50": 1185.0,
+      "p75": 1523.0
     },
     {
       "barrio": "San Nicolás",
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 441,
-      "p25": 992.5,
-      "p50": 1193.0,
-      "p75": 1533.0
+      "n": 443,
+      "p25": 987.0,
+      "p50": 1185.0,
+      "p75": 1523.0
     },
     {
       "barrio": "San Nicolás",
@@ -4560,30 +4560,30 @@
       "bedrooms": 1,
       "channel": "all",
       "furnished": "all",
-      "n": 1672,
+      "n": 1668,
       "p25": 796.0,
-      "p50": 1156.0,
-      "p75": 1555.0
+      "p50": 1151.0,
+      "p75": 1545.5
     },
     {
       "barrio": "San Nicolás",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "all",
-      "n": 1218,
-      "p25": 1031.0,
-      "p50": 1299.0,
-      "p75": 1683.0
+      "n": 1210,
+      "p25": 1026.0,
+      "p50": 1291.0,
+      "p75": 1656.5
     },
     {
       "barrio": "San Nicolás",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 1215,
-      "p25": 1030.75,
-      "p50": 1298.5,
-      "p75": 1681.5
+      "n": 1209,
+      "p25": 1026.0,
+      "p50": 1290.0,
+      "p75": 1655.75
     },
     {
       "barrio": "San Nicolás",
@@ -4620,30 +4620,30 @@
       "bedrooms": 2,
       "channel": "all",
       "furnished": "all",
-      "n": 577,
+      "n": 578,
       "p25": 1062.15,
-      "p50": 1590.0,
-      "p75": 2320.75
+      "p50": 1588.75,
+      "p75": 2307.88
     },
     {
       "barrio": "San Nicolás",
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "all",
-      "n": 326,
-      "p25": 1672.5,
-      "p50": 2137.0,
-      "p75": 2731.5
+      "n": 327,
+      "p25": 1659.5,
+      "p50": 2129.0,
+      "p75": 2717.0
     },
     {
       "barrio": "San Nicolás",
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 326,
-      "p25": 1672.5,
-      "p50": 2137.0,
-      "p75": 2731.5
+      "n": 327,
+      "p25": 1659.5,
+      "p50": 2129.0,
+      "p75": 2717.0
     },
     {
       "barrio": "San Nicolás",
@@ -4683,7 +4683,7 @@
       "n": 167,
       "p25": 1244.22,
       "p50": 2059.5,
-      "p75": 3123.25
+      "p75": 3156.5
     },
     {
       "barrio": "San Nicolás",
@@ -4692,8 +4692,8 @@
       "furnished": "all",
       "n": 77,
       "p25": 2365.25,
-      "p50": 3007.5,
-      "p75": 3728.48
+      "p50": 3049.0,
+      "p75": 3700.62
     },
     {
       "barrio": "San Nicolás",
@@ -4702,8 +4702,8 @@
       "furnished": "furnished",
       "n": 77,
       "p25": 2365.25,
-      "p50": 3007.5,
-      "p75": 3728.48
+      "p50": 3049.0,
+      "p75": 3700.62
     },
     {
       "barrio": "San Nicolás",
@@ -4742,7 +4742,7 @@
       "furnished": "all",
       "n": 74,
       "p25": 2111.41,
-      "p50": 3793.0,
+      "p50": 3562.0,
       "p75": 6532.5
     },
     {
@@ -4751,8 +4751,8 @@
       "channel": "platform",
       "furnished": "all",
       "n": 44,
-      "p25": 3717.25,
-      "p50": 5674.5,
+      "p25": 3544.0,
+      "p50": 5778.0,
       "p75": 8323.25
     },
     {
@@ -4761,8 +4761,8 @@
       "channel": "platform",
       "furnished": "furnished",
       "n": 44,
-      "p25": 3717.25,
-      "p50": 5674.5,
+      "p25": 3544.0,
+      "p50": 5778.0,
       "p75": 8323.25
     },
     {
@@ -4780,30 +4780,30 @@
       "bedrooms": 0,
       "channel": "all",
       "furnished": "all",
-      "n": 378,
+      "n": 379,
       "p25": 682.62,
       "p50": 921.22,
-      "p75": 1249.38
+      "p75": 1226.0
     },
     {
       "barrio": "San Telmo",
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "all",
-      "n": 114,
+      "n": 113,
       "p25": 934.75,
-      "p50": 1190.0,
-      "p75": 1715.75
+      "p50": 1177.0,
+      "p75": 1620.0
     },
     {
       "barrio": "San Telmo",
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 114,
+      "n": 113,
       "p25": 934.75,
-      "p50": 1190.0,
-      "p75": 1715.75
+      "p50": 1177.0,
+      "p75": 1620.0
     },
     {
       "barrio": "San Telmo",
@@ -4841,29 +4841,29 @@
       "channel": "all",
       "furnished": "all",
       "n": 767,
-      "p25": 804.0,
-      "p50": 1148.83,
-      "p75": 1705.25
+      "p25": 805.0,
+      "p50": 1148.0,
+      "p75": 1701.5
     },
     {
       "barrio": "San Telmo",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "all",
-      "n": 474,
-      "p25": 966.0,
-      "p50": 1287.0,
-      "p75": 1936.0
+      "n": 475,
+      "p25": 969.0,
+      "p50": 1293.5,
+      "p75": 1903.0
     },
     {
       "barrio": "San Telmo",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 473,
-      "p25": 964.75,
-      "p50": 1286.5,
-      "p75": 1927.75
+      "n": 474,
+      "p25": 969.0,
+      "p50": 1289.0,
+      "p75": 1900.0
     },
     {
       "barrio": "San Telmo",
@@ -4900,30 +4900,30 @@
       "bedrooms": 2,
       "channel": "all",
       "furnished": "all",
-      "n": 218,
+      "n": 215,
       "p25": 1002.0,
       "p50": 1402.0,
-      "p75": 2326.0
+      "p75": 2283.0
     },
     {
       "barrio": "San Telmo",
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "all",
-      "n": 98,
-      "p25": 1390.0,
-      "p50": 1731.5,
-      "p75": 2417.25
+      "n": 97,
+      "p25": 1385.0,
+      "p50": 1747.0,
+      "p75": 2415.75
     },
     {
       "barrio": "San Telmo",
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 98,
-      "p25": 1390.0,
-      "p50": 1731.5,
-      "p75": 2417.25
+      "n": 97,
+      "p25": 1385.0,
+      "p50": 1747.0,
+      "p75": 2415.75
     },
     {
       "barrio": "San Telmo",
@@ -4971,9 +4971,9 @@
       "channel": "platform",
       "furnished": "all",
       "n": 23,
-      "p25": 1968.5,
+      "p25": 1901.0,
       "p50": 3199.0,
-      "p75": 4853.68
+      "p75": 4584.5
     },
     {
       "barrio": "San Telmo",
@@ -4981,9 +4981,9 @@
       "channel": "platform",
       "furnished": "furnished",
       "n": 23,
-      "p25": 1968.5,
+      "p25": 1901.0,
       "p50": 3199.0,
-      "p75": 4853.68
+      "p75": 4584.5
     },
     {
       "barrio": "San Telmo",
@@ -5373,7 +5373,7 @@
       "n": 176,
       "p25": 540.45,
       "p50": 615.23,
-      "p75": 877.9
+      "p75": 879.64
     },
     {
       "barrio": "Vicente López",
@@ -5381,9 +5381,9 @@
       "channel": "platform",
       "furnished": "all",
       "n": 27,
-      "p25": 1141.0,
+      "p25": 1139.5,
       "p50": 1496.0,
-      "p75": 1668.0
+      "p75": 1668.5
     },
     {
       "barrio": "Vicente López",
@@ -5391,9 +5391,9 @@
       "channel": "platform",
       "furnished": "furnished",
       "n": 27,
-      "p25": 1141.0,
+      "p25": 1139.5,
       "p50": 1496.0,
-      "p75": 1668.0
+      "p75": 1668.5
     },
     {
       "barrio": "Vicente López",
@@ -5423,7 +5423,7 @@
       "n": 826,
       "p25": 724.49,
       "p50": 967.6,
-      "p75": 1509.82
+      "p75": 1505.24
     },
     {
       "barrio": "Vicente López",
@@ -5433,7 +5433,7 @@
       "n": 186,
       "p25": 1127.0,
       "p50": 1557.0,
-      "p75": 2169.25
+      "p75": 2162.75
     },
     {
       "barrio": "Vicente López",
@@ -5443,7 +5443,7 @@
       "n": 185,
       "p25": 1123.0,
       "p50": 1557.0,
-      "p75": 2171.0
+      "p75": 2164.0
     },
     {
       "barrio": "Vicente López",
@@ -5620,40 +5620,40 @@
       "bedrooms": 0,
       "channel": "all",
       "furnished": "all",
-      "n": 729,
-      "p25": 651.18,
-      "p50": 797.26,
-      "p75": 1081.35
+      "n": 727,
+      "p25": 653.69,
+      "p50": 799.51,
+      "p75": 1081.4
     },
     {
       "barrio": "Villa Crespo",
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "all",
-      "n": 207,
+      "n": 205,
       "p25": 1027.5,
-      "p50": 1249.5,
-      "p75": 1504.25
+      "p50": 1255.0,
+      "p75": 1493.25
     },
     {
       "barrio": "Villa Crespo",
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 207,
+      "n": 205,
       "p25": 1027.5,
-      "p50": 1249.5,
-      "p75": 1504.25
+      "p50": 1255.0,
+      "p75": 1493.25
     },
     {
       "barrio": "Villa Crespo",
       "bedrooms": 0,
       "channel": "direct",
       "furnished": "all",
-      "n": 524,
-      "p25": 617.48,
-      "p50": 722.17,
-      "p75": 853.22
+      "n": 523,
+      "p25": 616.71,
+      "p50": 722.31,
+      "p75": 853.3
     },
     {
       "barrio": "Villa Crespo",
@@ -5670,9 +5670,9 @@
       "bedrooms": 0,
       "channel": "direct",
       "furnished": "unfurnished",
-      "n": 253,
-      "p25": 587.77,
-      "p50": 643.97,
+      "n": 252,
+      "p25": 587.09,
+      "p50": 644.37,
       "p75": 747.35
     },
     {
@@ -5680,30 +5680,30 @@
       "bedrooms": 1,
       "channel": "all",
       "furnished": "all",
-      "n": 1093,
-      "p25": 796.88,
+      "n": 1095,
+      "p25": 795.0,
       "p50": 1047.0,
-      "p75": 1442.1
+      "p75": 1437.62
     },
     {
       "barrio": "Villa Crespo",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "all",
-      "n": 615,
-      "p25": 967.5,
-      "p50": 1238.0,
-      "p75": 1734.0
+      "n": 616,
+      "p25": 966.0,
+      "p50": 1232.0,
+      "p75": 1732.94
     },
     {
       "barrio": "Villa Crespo",
       "bedrooms": 1,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 615,
-      "p25": 967.5,
-      "p50": 1238.0,
-      "p75": 1734.0
+      "n": 616,
+      "p25": 966.0,
+      "p50": 1232.0,
+      "p75": 1732.94
     },
     {
       "barrio": "Villa Crespo",
@@ -5740,7 +5740,7 @@
       "bedrooms": 2,
       "channel": "all",
       "furnished": "all",
-      "n": 314,
+      "n": 315,
       "p25": 1010.76,
       "p50": 1332.94,
       "p75": 1962.5
@@ -5750,20 +5750,20 @@
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "all",
-      "n": 114,
+      "n": 113,
       "p25": 1552.0,
       "p50": 2083.5,
-      "p75": 2991.75
+      "p75": 2856.5
     },
     {
       "barrio": "Villa Crespo",
       "bedrooms": 2,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 114,
+      "n": 113,
       "p25": 1552.0,
       "p50": 2083.5,
-      "p75": 2991.75
+      "p75": 2856.5
     },
     {
       "barrio": "Villa Crespo",
@@ -5803,7 +5803,7 @@
       "n": 81,
       "p25": 1283.55,
       "p50": 1750.0,
-      "p75": 2491.75
+      "p75": 2492.25
     },
     {
       "barrio": "Villa Crespo",
@@ -5843,7 +5843,7 @@
       "n": 24,
       "p25": 3071.87,
       "p50": 5376.64,
-      "p75": 6926.73
+      "p75": 6935.48
     },
     {
       "barrio": "Villa Ortúzar",
@@ -5881,7 +5881,7 @@
       "channel": "all",
       "furnished": "all",
       "n": 131,
-      "p25": 779.0,
+      "p25": 772.5,
       "p50": 962.95,
       "p75": 1236.0
     },
@@ -5892,8 +5892,8 @@
       "furnished": "all",
       "n": 58,
       "p25": 759.75,
-      "p50": 1010.47,
-      "p75": 1297.0
+      "p50": 1010.5,
+      "p75": 1296.5
     },
     {
       "barrio": "Villa Ortúzar",
@@ -5902,8 +5902,8 @@
       "furnished": "furnished",
       "n": 58,
       "p25": 759.75,
-      "p50": 1010.47,
-      "p75": 1297.0
+      "p50": 1010.5,
+      "p75": 1296.5
     },
     {
       "barrio": "Villa Ortúzar",
@@ -5970,7 +5970,7 @@
       "bedrooms": 0,
       "channel": "all",
       "furnished": "all",
-      "n": 590,
+      "n": 589,
       "p25": 595.93,
       "p50": 659.63,
       "p75": 803.71
@@ -5980,20 +5980,20 @@
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "all",
-      "n": 62,
+      "n": 61,
       "p25": 1011.25,
-      "p50": 1131.98,
-      "p75": 1456.75
+      "p50": 1147.5,
+      "p75": 1431.75
     },
     {
       "barrio": "Villa Urquiza",
       "bedrooms": 0,
       "channel": "platform",
       "furnished": "furnished",
-      "n": 62,
+      "n": 61,
       "p25": 1011.25,
-      "p50": 1131.98,
-      "p75": 1456.75
+      "p50": 1147.5,
+      "p75": 1431.75
     },
     {
       "barrio": "Villa Urquiza",
@@ -6033,7 +6033,7 @@
       "n": 799,
       "p25": 731.78,
       "p50": 884.11,
-      "p75": 1204.41
+      "p75": 1204.27
     },
     {
       "barrio": "Villa Urquiza",
@@ -6041,7 +6041,7 @@
       "channel": "platform",
       "furnished": "all",
       "n": 192,
-      "p25": 1126.75,
+      "p25": 1113.0,
       "p50": 1400.0,
       "p75": 1726.75
     },
@@ -6051,7 +6051,7 @@
       "channel": "platform",
       "furnished": "furnished",
       "n": 192,
-      "p25": 1126.75,
+      "p25": 1113.0,
       "p50": 1400.0,
       "p75": 1726.75
     },
