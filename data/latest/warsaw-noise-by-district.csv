@@ -1,7 +1,7 @@
 district,sample_size,pct_quiet_rentals,pct_sleep_disrupted_rentals,median_indoor_noise_impact_0_100,p90_indoor_noise_impact_0_100,median_sleep_minutes_lost_per_night,p90_sleep_minutes_lost_per_night
 Śródmieście,672,53,15,6,43,2,13
 Włochy,179,65,13,3,44,1,13
-Ochota,216,56,13,1,42,0,13
+Ochota,215,55,13,1,42,0,13
 Żoliborz,138,61,12,2,37,1,11
 Praga-Północ,184,60,11,2,42,1,13
 Wola,828,56,11,6,42,2,13
