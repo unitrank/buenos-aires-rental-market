@@ -1,3 +1,3 @@
 bedrooms,airbnb_n,airbnb_median,temp_furn_n,temp_furn_median,savings_vs_temp_furn,pct_savings_temp,long_furn_n,long_furn_median,savings_vs_long_furn,pct_savings_long,long_unfurn_n,long_unfurn_median,savings_vs_long_unfurn,pct_savings_unfurn
-1,12401,1347.00,2577,1124.00,223.00,17.00,2191,1026.00,321.00,24.00,11115,692.00,655.00,49.00
-2,2895,2148.00,1250,1671.00,477.00,22.00,1233,1616.00,532.00,25.00,6742,1035.00,1113.00,52.00
+1,12433,1347.00,2577,1124.00,223.00,17.00,2185,1026.00,321.00,24.00,10747,696.00,651.00,48.00
+2,2906,2148.00,1249,1668.00,480.00,22.00,1231,1617.00,531.00,25.00,6517,1042.00,1106.00,51.00
