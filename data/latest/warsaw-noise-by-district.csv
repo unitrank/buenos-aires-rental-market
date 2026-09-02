@@ -3,11 +3,11 @@ district,sample_size,pct_quiet_rentals,pct_sleep_disrupted_rentals,median_indoor
 Włochy,179,65,13,3,44,1,13
 Ochota,215,55,13,1,42,0,13
 Żoliborz,138,61,12,2,37,1,11
-Praga-Północ,184,60,11,2,42,1,13
+Praga-Północ,183,60,11,2,42,1,13
 Wola,828,56,11,6,42,2,13
 Praga-Południe,402,59,10,1,42,0,13
 Bielany,191,63,10,1,42,0,13
-Mokotów,927,63,9,1,29,0,9
+Mokotów,926,63,9,1,29,0,9
 Wilanów,215,70,6,1,27,0,8
 Wawer,51,78,6,1,16,0,5
 Targówek,150,75,5,1,26,0,8

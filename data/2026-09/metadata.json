@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "2.0",
+  "name": "Buenos Aires rental market data",
+  "description": "Monthly aggregated rental prices by neighborhood and bedroom count. Compares Airbnb to direct-rental market across all major platforms. Prices are all-in US dollars: base rent, expensas, utilities, guarantee and broker fee amortized monthly.",
+  "publisher": "Unitrank",
+  "publisherUrl": "https://unitrank.com",
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "licenseShortName": "CC BY-SA 4.0",
+  "methodologyUrl": "https://unitrank.com/en/methodology",
+  "wikidata": "https://www.wikidata.org/wiki/Q138792840",
+  "contact": "hello@unitrank.com",
+  "citeAs": "Unitrank (September 2026). Buenos Aires rental market data. Retrieved from https://unitrank.com/en/methodology. Licensed CC BY-SA 4.0.",
+  "generatedAt": "2026-09-02T06:00:23.877297+00:00",
+  "temporalCoverage": "2026-09",
+  "methodologyVersion": "64dbaeb7606f",
+  "city": "Buenos Aires",
+  "country": "Argentina",
+  "sources": [
+    "Airbnb",
+    "Argenprop",
+    "Zonaprop",
+    "MercadoLibre"
+  ],
+  "currency": "USD",
+  "methodologyNotes": {
+    "priceTrimming": "Bottom 10% and top 20% of prices removed on the pooled distribution before aggregation.",
+    "minPriceFilterUsd": 200,
+    "furnishedDetection": "Based on visible bed count in listing photos (LLM-extracted total_bed_capacity > 0). Coverage approximately 61%.",
+    "allInIncludes": [
+      "Base rent",
+      "Expensas (building fees)",
+      "Estimated utilities",
+      "Broker fee amortized over contract duration, where charged",
+      "Guarantee (seguro de caución) amortized monthly, where charged"
+    ],
+    "allInExcludes": [
+      "Move-in cleaning (one-time)",
+      "Stamp tax (sellado, one-time, approximately 0.5% of contract)",
+      "Deposit (refundable)"
+    ]
+  },
+  "counts": {
+    "totalListings": 67127,
+    "activeListings": 67127,
+    "barriosCovered": 95
+  },
+  "cityWideMedians": {
+    "bedrooms1": {
+      "airbnbMonthlyMedianUsd": 1347.0,
+      "airbnbSampleSize": 12433,
+      "directTempFurnishedMonthlyMedianUsd": 1124.0,
+      "directTempFurnishedSampleSize": 2577,
+      "savingsVsDirectTempFurnishedUsd": 223.0,
+      "savingsVsDirectTempFurnishedPct": 17.0
+    },
+    "bedrooms2": {
+      "airbnbMonthlyMedianUsd": 2148.0,
+      "airbnbSampleSize": 2906,
+      "directTempFurnishedMonthlyMedianUsd": 1668.0,
+      "directTempFurnishedSampleSize": 1249,
+      "savingsVsDirectTempFurnishedUsd": 480.0,
+      "savingsVsDirectTempFurnishedPct": 22.0
+    }
+  }
+}
