@@ -1,12 +1,12 @@
 district,sample_size,pct_quiet_rentals,pct_sleep_disrupted_rentals,median_indoor_noise_impact_0_100,p90_indoor_noise_impact_0_100,median_sleep_minutes_lost_per_night,p90_sleep_minutes_lost_per_night
-Śródmieście,819,55,15,6,43,2,13
+Śródmieście,817,55,15,6,43,2,13
 Ochota,256,55,14,1,42,0,13
 Bielany,233,68,12,1,42,0,13
 Żoliborz,166,58,11,1,35,0,10
 Wola,905,57,10,6,40,2,12
 Praga-Południe,466,58,10,1,39,0,12
 Włochy,166,63,10,5,36,2,11
-Praga-Północ,243,63,10,2,34,1,10
+Praga-Północ,242,63,10,2,35,1,10
 Mokotów,1018,63,9,1,29,0,9
 Targówek,178,71,7,1,26,0,8
 Wilanów,220,72,6,1,27,0,8
