@@ -1,5 +1,5 @@
 district,sample_size,pct_quiet_rentals,pct_sleep_disrupted_rentals,median_indoor_noise_impact_0_100,p90_indoor_noise_impact_0_100,median_sleep_minutes_lost_per_night,p90_sleep_minutes_lost_per_night
-Śródmieście,812,56,15,6,43,2,13
+Śródmieście,810,55,15,6,43,2,13
 Ochota,256,55,14,1,42,0,13
 Bielany,233,68,12,1,42,0,13
 Żoliborz,166,58,11,1,35,0,10
