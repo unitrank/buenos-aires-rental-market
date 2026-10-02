@@ -1,0 +1,13 @@
+category,bedrooms,sample_size,rent_plus_expensas_median_usd,expensas_median_usd,utilities_median_usd,guarantee_mean_when_charged_usd,listings_with_guarantee_pct,broker_fee_mean_when_charged_usd,listings_with_broker_fee_pct,all_in_median_usd,utils_pct,guarantee_pct,broker_pct
+long furnished,1,2300,809.0,129.0,92.0,77.0,96.0,38.0,7.0,1025.0,9.0,7.5,3.7
+long unfurnished,1,10702,551.0,109.0,71.0,48.0,93.0,20.0,7.0,710.0,10.0,6.8,2.9
+temp furnished,1,2584,850.0,109.0,90.0,,0.0,154.0,92.0,1109.0,8.1,,13.9
+temp unfurnished,1,744,809.0,108.0,90.0,,0.0,140.0,90.0,1059.0,8.5,,13.3
+long furnished,2,1289,1300.0,196.0,98.0,126.0,95.0,73.0,6.0,1589.0,6.2,8.0,4.6
+long unfurnished,2,6447,841.0,160.0,82.0,77.0,93.0,36.0,8.0,1069.0,7.6,7.2,3.3
+temp furnished,2,1251,1300.0,162.0,97.0,,0.0,232.0,93.0,1685.0,5.7,,13.8
+temp unfurnished,2,514,1399.0,187.0,98.0,,0.0,237.0,89.0,1825.0,5.4,,13.0
+long furnished,3,735,2000.0,363.0,111.0,196.0,97.0,101.0,6.0,2491.0,4.4,7.9,4.1
+long unfurnished,3,3410,1500.0,313.0,105.0,146.0,96.0,64.0,6.0,1930.0,5.4,7.5,3.3
+temp furnished,3,491,2100.0,250.0,107.0,,0.0,384.0,94.0,2803.0,3.8,,13.7
+temp unfurnished,3,759,3500.0,460.0,124.0,,0.0,567.0,92.0,4669.0,2.7,,12.1
