@@ -9,10 +9,10 @@
   "methodologyUrl": "https://unitrank.com/en/methodology",
   "wikidata": "https://www.wikidata.org/wiki/Q138792840",
   "contact": "hello@unitrank.com",
-  "citeAs": "Unitrank (October 2026). Buenos Aires rental market data. Retrieved from https://unitrank.com/en/data. Licensed CC BY 4.0.",
-  "generatedAt": "2026-10-31T05:00:37.493863+00:00",
+  "citeAs": "Unitrank (November 2026). Buenos Aires rental market data. Retrieved from https://unitrank.com/en/data. Licensed CC BY 4.0.",
+  "generatedAt": "2026-11-01T05:00:33.399643+00:00",
   "updateCadence": "daily",
-  "temporalCoverage": "2026-10",
+  "temporalCoverage": "2026-11",
   "methodologyVersion": "64dbaeb7606f",
   "city": "Buenos Aires",
   "country": "Argentina",
@@ -24,7 +24,7 @@
   ],
   "currency": "USD",
   "counts": {
-    "rankedListings": 58964,
+    "rankedListings": 58935,
     "barriosCovered": 23
   },
   "methodologyNotes": {
