@@ -1,0 +1,3 @@
+bedrooms,airbnb_sample_size,airbnb_monthly_median_usd,direct_temp_furnished_sample_size,direct_temp_furnished_monthly_median_usd,savings_vs_direct_temp_furnished_usd,savings_vs_direct_temp_furnished_pct,direct_long_furnished_sample_size,direct_long_furnished_monthly_median_usd,savings_vs_direct_long_furnished_usd,savings_vs_direct_long_furnished_pct,direct_long_unfurnished_sample_size,direct_long_unfurnished_monthly_median_usd,savings_vs_direct_long_unfurnished_usd,savings_vs_direct_long_unfurnished_pct
+1,12737,1373.0,2584,1108.0,265.0,19.0,2300,1023.0,350.0,25.0,10725,707.0,666.0,49.0
+2,2977,2173.0,1250,1684.0,489.0,23.0,1289,1584.0,589.0,27.0,6483,1065.0,1108.0,51.0
