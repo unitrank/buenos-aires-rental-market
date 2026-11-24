@@ -1,6 +1,6 @@
 category,bedrooms,n,med_rent_exp,med_expensas,med_utilities,avg_guarantee_when_charged,pct_with_guarantee,avg_broker_when_charged,pct_with_broker,med_all_in,utils_pct,guarantee_pct,broker_pct
 long furnished,1,2297,809.00,127.00,92.00,75.00,96.00,37.00,7.00,995.00,9.20,7.50,3.70
-long unfurnished,1,10727,550.00,101.00,71.00,45.00,93.00,19.00,7.00,674.00,10.50,6.70,2.80
+long unfurnished,1,10729,550.00,101.00,71.00,45.00,93.00,19.00,7.00,674.00,10.50,6.70,2.80
 temp furnished,1,2582,850.00,107.00,90.00,,0.00,153.00,92.00,1107.00,8.20,,13.80
 temp unfurnished,1,749,809.00,105.00,90.00,,0.00,138.00,89.00,1048.00,8.60,,13.20
 long furnished,2,1289,1300.00,193.00,98.00,124.00,95.00,72.00,6.00,1561.00,6.30,7.90,4.60
